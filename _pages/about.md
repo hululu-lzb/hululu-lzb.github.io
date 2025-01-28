@@ -25,7 +25,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
+- *2024.11*: &nbsp;🎉🎉 **GA-NDQN** is accepted by IEEE Sensor Journal 2024!
 
 # 📝 Publications 
 
