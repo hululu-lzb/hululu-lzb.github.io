@@ -25,9 +25,20 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 **GA-NDQN** is accepted by IEEE Sensor Journal 2024!
+- *2024.11*: &nbsp;🎉🎉 **GA-NDQN** is accepted by IEEE Sensors Journal 2024!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SENS J 2024</div><img src='images/IEEE SENS J 2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Reinforcement Learning-Based Multi-AUV Task Allocation Algorithm in Underwater Wireless Sensor Networks](https://ieeexplore.ieee.org/abstract/document/10778250)
+
+**Zhibin Liu**, Chunfeng Liu, Wenyu Qu, Tie Qiu, Zhao Zhao, Yansheng Hu, Huiyong Dong
+
+<strong><span class='show_paper_citations' data='dMLBkcwAAAAJ:u-x6o8ySG0sC'></span></strong>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2022</div><img src='images/IoTJ2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
