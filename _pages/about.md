@@ -37,12 +37,9 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 Li Dong, **Zhibin Liu**, Feibo jiang, Kezhi Wang
 
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<strong><span class='show_paper_citations' data='dMLBkcwAAAAJ:u5HHmVD_uO8C'></span></strong>
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 
